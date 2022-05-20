@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    
+}
+
+.tribute-page{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 60px 30px 50px 30px;
+}
+
+.heading{
+    font-size: 40px;
+    margin-bottom: 25px;
+
+}
+
+.heading-text{
+    font-size: 15px;
+}
+
+.image-section{
+    background-color: white;
+    margin: 0px;
+}
+
+.image{
+    width: 90%;
+}
+
+.image-caption{
+    line-height: 30px;
+    font-size: 18px;
+    padding: 20px 0px;
+}
+
+.list-heading{
+    padding: 20px 0px;
+}
+
+.listing{
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.listing-items{
+    text-align: left;
+    line-height: 20px;
+    margin: 25px;
+    list-style-position: inside;
+
+}
+
+.quote{
+ font-style: italic;
+ max-width: 700px;
+ text-align: left;
+ margin: 0px auto;
+ line-height: 20px;
+ padding-bottom: 50px;
+}
